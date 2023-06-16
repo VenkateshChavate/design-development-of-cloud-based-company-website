@@ -1,4 +1,4 @@
-# design-development-of-cloud-based-company-website
+# Design and development of Cloud Based Company Website
 
 The objective of this project is to design and develop a website for cloud based company.
 
